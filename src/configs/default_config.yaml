@@ -1,0 +1,15 @@
+start_period: 20120100
+
+makro: false
+energy: true
+eriks: false
+mammoet: false
+nutreco: false
+
+update_dimensions: false
+
+process_actual: true
+process_year_plan: false
+process_forecast: false
+
+is_load_master: false
