@@ -1,6 +1,6 @@
 PyYAML==5.1.2
 requests
-numpy==1.17.2
+numpy==1.22.0
 pandas==0.25.1
 shapely==1.6.4.post2
 plotly==4.1.1
